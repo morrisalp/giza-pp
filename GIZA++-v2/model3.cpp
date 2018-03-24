@@ -318,7 +318,7 @@ int model3::viterbi(int noIterationsModel3, int noIterationsModel4,int noIterati
       d4file = Prefix + ".d4." + number ;
       d4file2 = Prefix + ".D4." + number ;
       d5file = Prefix + ".d5." + number ;
-      alignfile = Prefix + ".A3." + number ;
+      alignfile = Prefix + ".VA3." + number ;
       test_alignfile = Prefix + ".tst.A3." + number ;
       p0file = Prefix + ".p0_3." + number ;
     }
